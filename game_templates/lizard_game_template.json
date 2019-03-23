@@ -1,0 +1,15 @@
+{
+    "board" : [
+        ["🌿"," "," "],
+        [" ","🦅"," "],
+        [" "," ","🐛"]
+    ],
+    "token_rewards" : {
+        " "  : [-1, false, null],
+        "🌿" : [1, false, null],
+        "🦅" : [-10, true, "FAIL"],
+        "🐛" : [10, true, "SUCCESS"]
+    },
+    "agent_token" : "🦎",
+    "starting_state" : [2, 0]
+}
