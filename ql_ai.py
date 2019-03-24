@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # @author Sean Fitzpatrick 2019-3-2
-# @desc Q Learing AI: This files contains the for an AI trained with Q Learning.
+# @desc Q Learing AI: This files contains the AI class trained with Q Learning and main program.
 #Imports========================================
 import random, copy, time, os, json, argparse
 
